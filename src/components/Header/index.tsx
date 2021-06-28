@@ -8,7 +8,7 @@ const Header: React.FC = () => {
     <>
     <S.Container>
       <S.Content>
-      <h1>Header</h1>
+      <h3>Sneakers</h3>
       </S.Content>
       <S.Avatar>
       <img src={Avatar} />

@@ -16,6 +16,7 @@ export const Container = styled.div`
     }
   }
   h3 {
+    font-weight: 400;
     font-size: 26px;
     font-family: Arial;
   }
