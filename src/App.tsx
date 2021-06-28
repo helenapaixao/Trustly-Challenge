@@ -1,15 +1,22 @@
 import React from 'react';
-import Header from '../src/components/Header'
-import Card from './components/Card';
 
+import { BrowserRouter as Router } from 'react-router-dom';
 
-function App() {
-  return (
-    <>
-   <Header/>
-   <Card/>
-</>
-  );
-}
+import { ThemeProvider } from 'styled-components';
+import theme from './styles/theme';
+import GlobalStyle from './styles/global';
+import { ToastContainer } from 'react-toastify';
+
+import Routes from './routes';
+
+const App: React.FC = () => (
+  <Router>
+    <ThemeProvider theme={theme}>
+      <ToastContainer />
+      <Routes />
+      <GlobalStyle />
+    </ThemeProvider>
+  </Router>
+);
 
 export default App;
