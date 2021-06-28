@@ -1,6 +1,8 @@
 import React from 'react';
 import Avatar from '../../assets/images/Avatar.png';
 import * as S from './styles'
+
+
 const Header: React.FC = () => {
   return(
     <>
