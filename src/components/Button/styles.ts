@@ -3,7 +3,7 @@ import {shade} from 'polished'
 
 
 export const Container = styled.button`
-  background: ${props => props.theme.color.primary};
+  background: #6B8067;
   font-size: 16px;
   height: 40px;
   border-radius: 10px;
