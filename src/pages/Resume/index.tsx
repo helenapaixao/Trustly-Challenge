@@ -12,12 +12,13 @@ import { Row, Col } from 'react-bootstrap';
 import Order from '../../components/Order';
 import Button from '../../components/Button';
 import { AiFillBank, AiOutlineCreditCard, AiFillApple } from 'react-icons/ai';
+
 interface ReviewProps {
   navigation: any;
   cart: Cart | undefined;
   setCart: React.Dispatch<Action>;
 }
-const Review: React.FC<ReviewProps> = ({
+const Resume: React.FC<ReviewProps> = ({
   navigation,
   cart,
   setCart,
@@ -71,4 +72,4 @@ const Review: React.FC<ReviewProps> = ({
   return <div />;
 };
 
-export default Review;
+export default Resume;

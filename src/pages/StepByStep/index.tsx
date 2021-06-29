@@ -13,7 +13,7 @@ const steps = ['Cart', 'Payment Options', 'Receipt'];
 const initialStep = 0;
 
 const StepByStep: React.FC = () => {
-  const { navigation, index,step } = useStep({ initialStep, steps: 3  });
+  const { navigation, index } = useStep({ initialStep, steps: 3  });
 
   const [sneakers, setSneakers] = useReducer(genericReducer, []);
   const [sneakersToShow, setSneakersToShow] = useReducer(genericReducer, []);
