@@ -42,3 +42,24 @@ export const Avatar = styled.div`
     }
   }
 `;
+
+export const ButtonBack = styled.button`
+  background: rgba(0, 0, 0, 0.05);
+  border-radius: 17.4025px;
+  font-weight: 600;
+  padding-left: 15px;
+  padding-right: 20px;
+  border: none;
+  & svg {
+    margin-right: 5px;
+  }
+  @media all and (max-width: 769px) {
+    font-size: 12px;
+    height: 30px;
+    & svg {
+      margin-top: -2px;
+      width: 16px;
+      height: 16px;
+    }
+  }
+`;

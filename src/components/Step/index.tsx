@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 import { Stepper, Step, StepLabel } from '@material-ui/core/';
 import { Container, useQontoStepIconStyles, QontoConnector } from './styles';

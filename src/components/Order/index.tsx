@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React from 'react';
 import { Cart, PaymentMethod } from '../../utils/types';
 import * as S from '../Cart/styles';
@@ -8,6 +9,7 @@ import { AiFillBank, AiOutlineCreditCard, AiFillApple } from 'react-icons/ai';
 interface OrderDetailsProps {
   cart: Cart;
 }
+// eslint-disable-next-line react/prop-types
 const Order: React.FC<OrderDetailsProps> = ( { cart } ) => {
   return (
     <S.Container>
@@ -43,4 +45,4 @@ const Order: React.FC<OrderDetailsProps> = ( { cart } ) => {
   );
 };
 
-export default OrderDetails;
+export default Order;

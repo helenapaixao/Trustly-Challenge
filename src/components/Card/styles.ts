@@ -52,3 +52,22 @@ export const Content = styled.div`
     margin-bottom: 10px;
   }
 `;
+
+
+export const ContainerSelects = styled.div`
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  p {
+    font-size: 14px;
+    line-height: 18px;
+    color: #8d8d8d;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-top: 5px;
+  }
+  div {
+    display: flex;
+  }
+`;
