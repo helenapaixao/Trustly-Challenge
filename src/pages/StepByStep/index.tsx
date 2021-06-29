@@ -26,7 +26,7 @@ const StepByStep: React.FC = () => {
         setSneakers({ type: 'UPDATE-ALL', payload: res.data.results });
         setSneakersToShow({ type: 'UPDATE-ALL', payload: res.data.results });
       }
-    });
+    })();
   }, []);
 
   const propsSneakers = {
