@@ -9,7 +9,7 @@ interface CartDetailsProps {
   navigation: any;
 }
 
-const CartDetails: React.FC<CartDetailsProps> = ({
+const Cart: React.FC<CartDetailsProps> = ({
   cart,
   navigation,
 }: CartDetailsProps) => {
@@ -61,4 +61,4 @@ const CartDetails: React.FC<CartDetailsProps> = ({
   );
 };
 
-export default CartDetails;
+export default Cart;
