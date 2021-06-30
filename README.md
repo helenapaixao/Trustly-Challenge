@@ -1,5 +1,5 @@
 <h1 align="center">
-  Trustly Challenge Cancel changes
+  Trustly Challenge 
 </h1>
 em producção : https://frosty-lewin-9ebca5.netlify.app/
 
