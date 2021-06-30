@@ -3,17 +3,15 @@
 </h1>
 
 <p align="center">
-   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/helenapaixao/Trustly-Challenge">
+  <!--  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/helenapaixao/Trustly-Challenge"> -->
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/helenapaixao/Trustly-Challenge?logo=typescript">
-
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/helenapaixao/Trustly-Challenge?color=green">
+<!--   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/helenapaixao/Trustly-Challenge?logo=typescript">
+ -->
+<!--   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/helenapaixao/Trustly-Challenge?color=green"> -->
 
   <br>
 
-
-
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/helenapaixao/Trustly-Challenge">
+<!--   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/helenapaixao/Trustly-Challenge"> -->
 
   <a href="https://www.linkedin.com/in/helenapaixao/">
     <img alt="Made by helenapaixao" src="https://img.shields.io/badge/made%20by-helenapaixao-%2304D361">
@@ -99,8 +97,7 @@ Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn o
   ❯ npm run start
 ```
 
-```
-```
+
 **Rodando o test**
 
 ```bash
