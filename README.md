@@ -1,6 +1,7 @@
 <h1 align="center">
-  Trustly Challenge 
+  Trustly Challenge Cancel changes
 </h1>
+em producção : https://frosty-lewin-9ebca5.netlify.app/
 
 <p align="center">
   <!--  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/helenapaixao/Trustly-Challenge"> -->
@@ -21,7 +22,7 @@
 ---
 
 
----
+
 
 # Indice
 
@@ -35,7 +36,7 @@
 ## :rocket: Sobre o Projeto
 
 O **Trustly-Challenge**  foi desenvolvido em Reacjs com TypeScript.
- em producção : https://frosty-lewin-9ebca5.netlify.app/
+ 
 
 ---
 
