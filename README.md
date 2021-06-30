@@ -35,6 +35,7 @@
 ## :rocket: Sobre o Projeto
 
 O **Trustly-Challenge**  foi desenvolvido em Reacjs com TypeScript.
+**Trustly-Challenge** em producção : https://frosty-lewin-9ebca5.netlify.app/
 
 ---
 
