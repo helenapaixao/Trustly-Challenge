@@ -1,6 +1,8 @@
 import { createGlobalStyle } from 'styled-components';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'react-toastify/dist/ReactToastify.css';
+
+
 export default createGlobalStyle`
 * {
   margin: 0;

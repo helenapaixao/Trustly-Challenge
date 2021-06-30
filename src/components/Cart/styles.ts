@@ -11,17 +11,17 @@ export const Container = styled.div`
   padding: 16px;
   h3 {
     font-size: 18px;
-   /*  color: ${props => props.theme.color.primaryText}; */
+     color: #A5A5A5; 
     margin-bottom: 1rem;
   }
   h4 {
     font-size: 14px;
-   /*  color: ${props => props.theme.color.primaryText}; */
+     color: #A5A5A5; 
     margin-bottom: 0px;
   }
   p {
     font-size: 14px;
- /*    color: ${props => props.theme.color.secondaryText}; */
+  color: #A5A5A5;
     margin-bottom: 0px;
   }
   .total-cost {
@@ -41,7 +41,7 @@ export const Container = styled.div`
   }
   h2 {
     font-size: 30px;
- /*    color: ${props => props.theme.color.primaryText}; */
+   color: #A5A5A5;
     margin-left: 10px;
     font-weight: 600;
   }
