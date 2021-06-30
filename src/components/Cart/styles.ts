@@ -11,12 +11,13 @@ export const Container = styled.div`
   padding: 16px;
   h3 {
     font-size: 18px;
-     color: #A5A5A5; 
+     color: #000; 
     margin-bottom: 1rem;
   }
   h4 {
-    font-size: 14px;
-     color: #A5A5A5; 
+    font-weight: 400;
+    font-size: 16px;
+     color: #000; 
     margin-bottom: 0px;
   }
   p {
@@ -40,10 +41,11 @@ export const Container = styled.div`
     }
   }
   h2 {
+
     font-size: 30px;
-   color: #A5A5A5;
+   color: #000;
     margin-left: 10px;
-    font-weight: 600;
+    font-weight: 400;
   }
   .container-column {
     display: flex;

@@ -38,11 +38,14 @@ export const Container = styled.div<ContainerProps>`
     flex: 1;
     background: transparent;
     border: 0;
-    color: #666360; 
+    color: #A8A8A8;
+    font-size: 24px;
     text-align: center;
     &::placeholder {
+      font-weight: 300;
+      font-size: 24px;
       text-align: center;
-      color: #666360;
+      color: #A8A8A8;
     }
   }
   svg {

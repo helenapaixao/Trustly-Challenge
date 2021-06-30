@@ -34,7 +34,7 @@ export const ContainerShoes = styled.div`
 `;
 export const NoSearchTitle = styled.h3`
   font-size: 18px;
-/*   color: ${props => props.theme.color.primary}; */
+  color: #A8A8A8;
   font-weight: 600;
   margin-top: 1rem;
   text-align: center;

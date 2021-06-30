@@ -1,4 +1,4 @@
- 
+/*  
 export const proxy = require("http-proxy-middleware");
 
 module.exports = function(app: { use: (arg0: any) => void; }) {
@@ -9,4 +9,4 @@ module.exports = function(app: { use: (arg0: any) => void; }) {
       changeOrigin: true
     })
   )
-}
+} */

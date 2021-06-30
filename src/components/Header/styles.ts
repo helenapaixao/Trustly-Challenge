@@ -23,11 +23,13 @@ export const Container = styled.div`
 `;
 
 export const Content = styled.div`
-
+  font-size: 26px;
+  font-weight: 400;
   display: flex;
   justify-content: center;
   align-items: center;
   flex: 1;
+  color:#000000;
 
 `;
 
